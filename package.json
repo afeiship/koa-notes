@@ -1,0 +1,14 @@
+{
+  "name": "koa-notes",
+  "version": "1.0.0",
+  "description": "notes.",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.0"
+  }
+}
